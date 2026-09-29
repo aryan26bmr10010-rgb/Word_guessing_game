@@ -1,11 +1,11 @@
-Word guessing game
+# Word guessing game
 
 This is a simple Word Guessing Game in which the program contains
 some words in which the player has to guess the secret word within
 three attempts. If you can not guess the word in three attempts then
 you will lose the game.
 
-About the project
+## About the project
 
 1. In this game the computer chooses the secret code randomly.
 2. The assigned words are displayed to the player.
@@ -15,16 +15,16 @@ the game.
 5. If a player does not guess the word in three attempts then the player loses
 the game and the game is over.
 
-Technologies Used
+## Technologies Used
 
 ● Python
 
-How to run
+## How to run
 
 1. Python must be installed on your device.
 2. Run the python file: python word_guessing_game.py
    
-Author
+## Author
 
 ● Lists
 
