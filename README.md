@@ -1,4 +1,5 @@
 Word guessing game
+
 This is a simple Word Guessing Game in which the program contains
 some words in which the player has to guess the secret word within
 three attempts. If you can not guess the word in three attempts then
